@@ -1,0 +1,15 @@
+c:\Users\PC\source\repos\AbstraindoJogoRpg\bin\Debug\net6.0\AbstraindoJogoRpg.exe
+C:\Users\PC\source\repos\AbstraindoJogoRpg\bin\Debug\net6.0\AbstraindoJogoRpg.deps.json
+C:\Users\PC\source\repos\AbstraindoJogoRpg\bin\Debug\net6.0\AbstraindoJogoRpg.runtimeconfig.json
+c:\Users\PC\source\repos\AbstraindoJogoRpg\bin\Debug\net6.0\AbstraindoJogoRpg.dll
+c:\Users\PC\source\repos\AbstraindoJogoRpg\bin\Debug\net6.0\AbstraindoJogoRpg.pdb
+c:\Users\PC\source\repos\AbstraindoJogoRpg\obj\Debug\net6.0\AbstraindoJogoRpg.csproj.AssemblyReference.cache
+c:\Users\PC\source\repos\AbstraindoJogoRpg\obj\Debug\net6.0\AbstraindoJogoRpg.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PC\source\repos\AbstraindoJogoRpg\obj\Debug\net6.0\AbstraindoJogoRpg.AssemblyInfoInputs.cache
+c:\Users\PC\source\repos\AbstraindoJogoRpg\obj\Debug\net6.0\AbstraindoJogoRpg.AssemblyInfo.cs
+c:\Users\PC\source\repos\AbstraindoJogoRpg\obj\Debug\net6.0\AbstraindoJogoRpg.csproj.CoreCompileInputs.cache
+c:\Users\PC\source\repos\AbstraindoJogoRpg\obj\Debug\net6.0\AbstraindoJogoRpg.dll
+c:\Users\PC\source\repos\AbstraindoJogoRpg\obj\Debug\net6.0\refint\AbstraindoJogoRpg.dll
+c:\Users\PC\source\repos\AbstraindoJogoRpg\obj\Debug\net6.0\AbstraindoJogoRpg.pdb
+C:\Users\PC\source\repos\AbstraindoJogoRpg\obj\Debug\net6.0\AbstraindoJogoRpg.genruntimeconfig.cache
+C:\Users\PC\source\repos\AbstraindoJogoRpg\obj\Debug\net6.0\ref\AbstraindoJogoRpg.dll
